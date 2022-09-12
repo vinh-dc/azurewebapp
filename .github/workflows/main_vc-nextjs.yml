@@ -50,7 +50,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'vc-nextjs'
+          app-name: 'vcnswtg'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D41F24BB7AF4366B2062FC4E26CCECD }}
           package: .
