@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/c079e2d0-2487-4f99-bbb8-2d6beb028311/microsoft.web/sites/subscriptions/c079e2d0-2487-4f99-bbb8-2d6beb028311/resourceGroups/apim-test/providers/Microsoft.Web/sites/vcnextapplinux",
+  "appService.deploySubpath": "."
+}
